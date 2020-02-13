@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Picture Quiz</string>
+    <string name="textHint">Take a Guess!</string>
+    <string name="animalHint">Insert an Animal name</string> <!-- used for accesability
+    people with impared vision that use features like Talkback-->
+    <string name="animalGuessButton">Guess!</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
+</resources>
